@@ -1,0 +1,8 @@
+[package]
+name = "chessai"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+shakmaty = {git = "https://github.com/JeffreyEnglish/shakmaty.git"}
+rustc-hash = "2.0.0"
